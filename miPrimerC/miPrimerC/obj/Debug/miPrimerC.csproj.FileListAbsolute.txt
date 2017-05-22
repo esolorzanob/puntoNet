@@ -1,0 +1,6 @@
+C:\Users\Esteban\Google Drive\Clases\Visual .net\miPrimerC\miPrimerC\bin\Debug\miPrimerC.exe.config
+C:\Users\Esteban\Google Drive\Clases\Visual .net\miPrimerC\miPrimerC\bin\Debug\miPrimerC.exe
+C:\Users\Esteban\Google Drive\Clases\Visual .net\miPrimerC\miPrimerC\bin\Debug\miPrimerC.pdb
+C:\Users\Esteban\Google Drive\Clases\Visual .net\miPrimerC\miPrimerC\obj\Debug\miPrimerC.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Google Drive\Clases\Visual .net\miPrimerC\miPrimerC\obj\Debug\miPrimerC.exe
+C:\Users\Esteban\Google Drive\Clases\Visual .net\miPrimerC\miPrimerC\obj\Debug\miPrimerC.pdb
